@@ -78,7 +78,9 @@
         "uglify-js": "3.15.1",
         "uuid": "8.3.2",
         "ws": "7.5.6",
-        "xml2js": "0.4.23"
+        "xml2js": "0.4.23",
+        "node-red-contrib-telegrambot": "^11.3.0",
+        "node-red-contrib-cron-plus": "^1.5.6"
     },
     "optionalDependencies": {
         "bcrypt": "5.0.1"
